@@ -1,0 +1,11 @@
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\bin\Debug\Mims_Christy Exercises 5-1.exe.config
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\bin\Debug\Mims_Christy Exercises 5-1.exe
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\bin\Debug\Mims_Christy Exercises 5-1.pdb
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\bin\Debug\Mims_Christy Exercises 5-1.xml
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\obj\Debug\Mims_Christy Exercises 5-1.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\obj\Debug\Mims_Christy_Exercises_5_1.Form1.resources
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\obj\Debug\Mims_Christy_Exercises_5_1.Resources.resources
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\obj\Debug\Mims_Christy Exercises 5-1.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\obj\Debug\Mims_Christy Exercises 5-1.exe
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\obj\Debug\Mims_Christy Exercises 5-1.xml
+E:\vbp\Mims_Christy Exercises 5-1\Mims_Christy Exercises 5-1\obj\Debug\Mims_Christy Exercises 5-1.pdb
